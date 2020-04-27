@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-android-tiff.git",
-    "baseUrl": "https://github.com/github_account/react-native-android-tiff"
+    "url": "git+https://github.com/gBragamonte/react-native-android-tiff.git",
+    "baseUrl": "https://github.com/gBragamonte/react-native-android-tiff"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Guilherme Bragamonte",
+    "email": "gbragamonte@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
