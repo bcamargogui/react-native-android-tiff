@@ -1,4 +1,6 @@
-# react-native-android-tiff
+# React Native Android Tiff Image Viewer
+
+This package provide a way to display `.tiff` file images
 
 ## Getting started
 
